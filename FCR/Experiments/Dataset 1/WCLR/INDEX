@@ -1,0 +1,25 @@
+clr                     Clusterwise Linear Regression
+clr.default             Clusterwise Linear Regression
+clr_lloyd_cpp           Clusterwise Linear Regression
+fuzzy_kpartition        Fuzzy K-partition
+hard_kpartition         Hard K-partition
+kmeans                  K-means Clustering + Linear Regression
+kmeans.default          K-means Clustering + Linear Regression
+kmeans_lloyd_cpp        K-means Linear Regression
+kplane                  K-plane Regression
+kplane.default          K-plane Regression
+kplane_lloyd_cpp        K-plane Regression
+predict.WCLR            Predict values
+predict.WCLR.swclr      Predict
+predict.WCLR.wclr       Predict
+predict_euclidean_cpp   Predict
+predict_quadratic_cpp   Predict
+swclr                   Self-balanced Weighted Clusterwise Linear
+                        Regression
+swclr.default           Self-balanced Weighted Clusterwise Linear
+                        Regression
+swclr_lloyd_cpp         Self-balanced Weighted Clusterwise Linear
+                        Regression
+wclr                    Weighted Clusterwise Linear Regression
+wclr.default            Weighted Clusterwise Linear Regression
+wclr_lloyd_cpp          Weighted Clusterwise Linear Regression

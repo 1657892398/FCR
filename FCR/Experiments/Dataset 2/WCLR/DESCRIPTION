@@ -1,0 +1,32 @@
+Package: WCLR
+Title: Weighted Clusterwise Linear Regression
+Version: 0.1.0
+Authors@R: 
+    person("Ricardo", "Azevedo", , "ricardo.azevedo@univasf.edu.br", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-6703-2427"))
+Description: Provides a weighted clusterwise linear regression method to 
+  data fitting.  It also implements many related clusterwise linear regression 
+  methods.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+LinkingTo: Rcpp, RcppArmadillo
+Imports: RcppArmadillo, Rcpp
+RemoteType: github
+RemoteHost: api.github.com
+RemoteRepo: wclr
+RemoteUsername: ricardo-ams
+RemoteRef: HEAD
+RemoteSha: 8d9414766e9b35ec6601848cba5672a0b60dbe1f
+GithubRepo: wclr
+GithubUsername: ricardo-ams
+GithubRef: HEAD
+GithubSHA1: 8d9414766e9b35ec6601848cba5672a0b60dbe1f
+NeedsCompilation: yes
+Packaged: 2023-07-17 02:09:35 UTC; dell
+Author: Ricardo Azevedo [aut, cre] (<https://orcid.org/0000-0001-6703-2427>)
+Maintainer: Ricardo Azevedo <ricardo.azevedo@univasf.edu.br>
+Built: R 4.2.2; x86_64-w64-mingw32; 2023-07-17 02:09:35 UTC; windows
+ExperimentalWindowsRuntime: ucrt
+Archs: x64
